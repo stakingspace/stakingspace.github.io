@@ -1,0 +1,53 @@
+https://keybase.io/staking
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://staking.space
+  * I am staking (https://keybase.io/staking) on keybase.
+  * I have a public key ASCE2q_i2SxeB41z5KerWP-zeZnLBd93K51mji5yso0JbAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012084daafe2d92c5e078d73e4a7ab58ffb37999cb05df772b9d668e2e72b28d096c0a",
+      "host": "keybase.io",
+      "kid": "012084daafe2d92c5e078d73e4a7ab58ffb37999cb05df772b9d668e2e72b28d096c0a",
+      "uid": "d9a998cac66092748ffec7cfbd155a19",
+      "username": "staking"
+    },
+    "merkle_root": {
+      "ctime": 1556258210,
+      "hash": "6a81f6b74acc50d2690726adece66af71be8c681c1eecbc21e2c5cf256462c29aa9c203a00b3c7f0e5e797a36d578f9fed7ba6be2d1cb4375554d2cf1b1fd83c",
+      "hash_meta": "3cc49d6c270875baeafe029cc15a8e1628be643c96dbfa0001faae3b8bb916da",
+      "seqno": 5244397
+    },
+    "service": {
+      "entropy": "FUcHhqHwyew8Ntghi5sGS+8D",
+      "hostname": "staking.space",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1556258217,
+  "expire_in": 504576000,
+  "prev": "a12f8da7f49b74fb44659a39de472353fa88655baaf721fbec55d406bcc7dd61",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghNqv4tksXgeNc+Snq1j/s3mZywXfdyudZo4ucrKNCWwKp3BheWxvYWTESpcCBcQgoS+Np/SbdPtEZZo53kcjU/qIZVuq9yH77FXUBrzH3WHEIET/KJo9rbuxRN/FVi0OHNXcrUoD/nOzwwSWfbDLVULvAgHCo3NpZ8RAY5qR/RKm+v62p70ByFMdS5CQ+SSLzHdsZA0noLd7DvBK35I7/YYz+n7pviE/AAITvI2CcxSmymP7VDWouwh6CKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDeYOapO/hzS12pU48NjgMYbX1tTgEXaDnj3D1CexMaqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/staking
